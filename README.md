@@ -1,6 +1,6 @@
 # PythonMCP_ClientServer
 
-Python examples for the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/): a small **MCP server** (weather tool) and a **MCP client** that uses the Gemini API to call it.
+Python examples for the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/): an example **MCP server** (weather tool) and a **MCP client** that uses the Gemini API to call it.
 
 ## Contents
 
